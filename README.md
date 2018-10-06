@@ -1,0 +1,2 @@
+# algorithms-LBG
+LBG algorithm
