@@ -1,5 +1,5 @@
 # algorithms-LBGforPIC
-<p> LBG algorithm </p>
+<p> LBG for image compression </p>
 <p> 利用LBG演算法進行影像壓縮 </p>
 <p> 使用JAVA進行撰寫，是JAVAFX的應用程式 </p>
 
