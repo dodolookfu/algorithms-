@@ -1,2 +1,2 @@
-# algorithms-LBG
+# algorithms-LBGforPIC
 LBG algorithm
